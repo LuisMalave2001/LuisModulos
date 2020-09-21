@@ -17,5 +17,7 @@
     'data': [
         'data/assets.xml',
     ],
+    'price': 2999.99,
+    'currency': 'EUR'
 
 }
