@@ -1,0 +1,6 @@
+<odoo>
+    <data noupdate="1">
+        <!-- Only loaded when installing the module (odoo-bin -i module) -->
+        <function model="lower.case.all.user.logins" name="lower_case_all_user_logins" />
+    </data>
+</odoo>
