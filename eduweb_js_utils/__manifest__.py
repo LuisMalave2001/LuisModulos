@@ -17,5 +17,7 @@
     'data': [
         'data/assets.xml',
     ],
+    'price': 3000,
+    'currency': 'EUR'
 
 }
